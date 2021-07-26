@@ -22,18 +22,18 @@
 - Import project to eclipse
 
 ## How to run project?
-Before executing the project data.properties file needs to be configured with
+####Before executing the project data.properties file needs to be configured with
   - <b>Browser: </b>Choice of browser (Currently code compatible with chrome)
   - <b>chromeDriverExePath: </b>Path of chromedriver.exe file on your local machine
 
-- Using command prompt
+####Using command prompt
   - Open command prompt
   - Go to the project path:
      - Example: "cd C:\Users\ykulkarni\....\eclipse-workspace\FetchRewards"
   - Type “mvn test” and hit enter
 
 ## Screenshot
-
+![image](https://github.com/yogeshwarkulkarni/FetchRewards-CodingAssessment/blob/main/Screenshot1.png)
 
 
 
