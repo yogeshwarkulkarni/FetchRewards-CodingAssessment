@@ -1,4 +1,4 @@
-## One time prerequisites setup Instructions
+### One time prerequisites setup Instructions
 ### Install Java Development Kit- JDK
 - JAVA path in system variable
   
@@ -21,10 +21,10 @@
 - Download Eclipse IDE for Java Developers
 - Import project to eclipse
 
-## How to run project?
+### How to run project?
 <b>Before executing the project data.properties file needs to be configured with</b>
   - <b>Browser: </b>Choice of browser (Currently code compatible with chrome)
-  - <b>chromeDriverExePath: </b>Path of chromedriver.exe file on your local machine
+  - <b>chromeDriverExePath: </b>Path of chromedriver.exe file from your local machine
 
 <b>Using command prompt</b>
   - Open command prompt
@@ -32,7 +32,7 @@
      - Example: "cd C:\Users\ykulkarni\....\eclipse-workspace\FetchRewards"
   - Type “mvn test” and hit enter
 
-## Screenshot
+### Screenshot
 ![image](https://github.com/yogeshwarkulkarni/FetchRewards-CodingAssessment/blob/main/Screenshot1.png)
 
 
