@@ -22,11 +22,11 @@
 - Import project to eclipse
 
 ## How to run project?
-####Before executing the project data.properties file needs to be configured with
+<b>Before executing the project data.properties file needs to be configured with</b>
   - <b>Browser: </b>Choice of browser (Currently code compatible with chrome)
   - <b>chromeDriverExePath: </b>Path of chromedriver.exe file on your local machine
 
-####Using command prompt
+<b>Using command prompt</b>
   - Open command prompt
   - Go to the project path:
      - Example: "cd C:\Users\ykulkarni\....\eclipse-workspace\FetchRewards"
