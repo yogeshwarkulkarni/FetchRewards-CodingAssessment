@@ -29,7 +29,7 @@ Before executing the project data.properties file needs to be configured with
 - Using command prompt
   - Open command prompt
   - Go to the project path:
-   - Example: "cd C:\Users\ykulkarni\....\eclipse-workspace\FetchRewards"
+     - Example: "cd C:\Users\ykulkarni\....\eclipse-workspace\FetchRewards"
   - Type “mvn test” and hit enter
 
 ## Screenshot
